@@ -1,9 +1,8 @@
 # datasciencecoursera
-## test
-### test
 My repo for The Data Scientist’s Toolbox.
 
-* first item
-* second item
-* third item
+<pre>
+* Jon Hjerting's repo
+  &copy; 2015 Jon Hjerting
+</pre>
 
