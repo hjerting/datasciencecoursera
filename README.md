@@ -2,7 +2,7 @@
 My repo for The Data Scientist’s Toolbox.
 
 <pre>
-* Jon Hjerting's repo
-  &copy; 2015 Jon Hjerting
+  Jon Hjerting's repo
+  &copy; Jon Hjerting 2015
 </pre>
 
